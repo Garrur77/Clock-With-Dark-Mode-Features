@@ -2,11 +2,8 @@ Project Description: Customizable Clock with Dark Mode
 
 This project is a customizable clock created using HTML, CSS, and JavaScript, featuring a dark mode toggle functionality. The clock design is sleek and modern, utilizing the Google Fonts API to apply the "Poppins" font family for a clean and elegant appearance.
 
-
-##OUTPUT
-![Uploading Screenshot 2024-04-11 124139.png…]()
-
 ![Uploading Screenshot 2024-04-11 124129.png…]()
+
 
 
 Features:
